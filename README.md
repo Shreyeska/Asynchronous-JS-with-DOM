@@ -3,10 +3,10 @@ This project demonstrates the use of Asynchronous JS with DOM.
 
 ## Built With
 
-* love
 * html
 * css
 * javascript
+* love
 
 ## How to Run?
 
